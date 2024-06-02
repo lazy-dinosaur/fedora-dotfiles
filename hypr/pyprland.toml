@@ -1,2 +1,2 @@
 [pyprland]
-plugins = ["scratchpads", "toggle_special", "fetch_client_menu"]
+plugins = ["toggle_special", "fetch_client_menu"]
